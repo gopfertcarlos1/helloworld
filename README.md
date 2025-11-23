@@ -1,5 +1,2 @@
 # helloworld
-Vielleicht entsteht hier eine Plattform
-Nun wird getestet
-Hier bin ich wieder . Lange hat es gedauert. Hat sich etwas geändert. Okay. Wir streichen das.
-Hallo
+Hallo, jetzt wird wieder etwas geändert. Man weiß noch nicht genau wo es hinführt, allerdings is es bekannt. 
